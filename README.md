@@ -11,8 +11,6 @@ This portfolio showcases my **skills**, **projects**, **achievements**, and **ca
 
 ## 📌 Overview
 
-This portfolio is a reflection of who I am as a developer and learner.  
-It includes:
 
 - 🧑‍💼 About Me section  
 - 💻 Featured Projects (with GitHub links)  
